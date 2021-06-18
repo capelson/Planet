@@ -1,0 +1,9 @@
+planetvis-package	planetvis-package
+igraph_to_networkD3	igraph_to_networkD3
+JS	JS
+pkg_installed	pkg_installed
+planetvis	planetvis-package
+planetvis-shiny	planetvis-shiny
+renderSankeyNetwork	planetvis-shiny
+sankeyNetwork	sankeyNetwork
+sankeyNetworkOutput	planetvis-shiny

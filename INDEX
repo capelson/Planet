@@ -1,0 +1,8 @@
+JS                      Create character strings that will be evaluated
+                        as JavaScript
+igraph_to_networkD3     Function to convert igraph graph to a list
+                        suitable for networkD3
+pkg_installed           Check if a package is installed
+planetvis-package       Tools for Creating D3 Network Graphs from R
+planetvis-shiny         Shiny bindings for planetvis widgets
+sankeyNetwork           Create a D3 JavaScript Sankey diagram
